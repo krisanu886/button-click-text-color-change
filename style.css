@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 100%;
+    padding: 10px;
+    margin: 5px;
+}
+
+#section {
+    background-color: rgb(195, 159, 201);
+}
+
+#section-2 {
+    background-color: rgb(30, 255, 0);
+}
+
+#section-3 {
+    background-color: rgb(255, 0, 128);
+}
+
+/* .btn{
+
+} */
+p {
+    color: aquamarine;
+    font-family: sans-serif;
+}
+
+p:hover {
+
+    cursor: pointer;
+}
+
+.img {
+    width: 150px;
+    height: 150px;
+}
